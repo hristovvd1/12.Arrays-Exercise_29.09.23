@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\bin\Debug\net6.0\06.EqualSum.exe
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\bin\Debug\net6.0\06.EqualSum.deps.json
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\bin\Debug\net6.0\06.EqualSum.runtimeconfig.json
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\bin\Debug\net6.0\06.EqualSum.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\bin\Debug\net6.0\06.EqualSum.pdb
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfo.cs
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\refint\06.EqualSum.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.pdb
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\06.EqualSum.genruntimeconfig.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\06.EqualSum\obj\Debug\net6.0\ref\06.EqualSum.dll

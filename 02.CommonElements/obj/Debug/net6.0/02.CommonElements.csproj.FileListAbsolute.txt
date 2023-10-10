@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\bin\Debug\net6.0\02.CommonElements.exe
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\bin\Debug\net6.0\02.CommonElements.deps.json
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\bin\Debug\net6.0\02.CommonElements.runtimeconfig.json
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\bin\Debug\net6.0\02.CommonElements.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\bin\Debug\net6.0\02.CommonElements.pdb
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfo.cs
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\refint\02.CommonElements.dll
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.pdb
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\02.CommonElements.genruntimeconfig.cache
+C:\Users\hrist\source\repos\12.Arrays-Exercise_29.09.23\02.CommonElements\obj\Debug\net6.0\ref\02.CommonElements.dll
